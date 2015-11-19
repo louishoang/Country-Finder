@@ -1,0 +1,180 @@
+<option value="0" selected="">NONE </option>
+          <option value="1" selected="">Afghanistan (9)</option>
+          <option value="4" selected="">Albania (113)</option>
+          <option value="5" selected="">Algeria (126)</option>
+          <option value="6" selected="">American Samoa (7)</option>
+          <option value="7" selected="">Andorra (2)</option>
+          <option value="8" selected="">Angola (8)</option>
+          <option value="9" selected="">Anguilla (3)</option>
+          <option value="233" selected="">Antarctica (1)</option>
+          <option value="10" selected="">Antigua and Barbuda (6)</option>
+          <option value="12" selected="">Argentina (276)</option>
+          <option value="13" selected="">Armenia (9)</option>
+          <option value="14" selected="">Aruba (4)</option>
+          <option value="15" selected="">Australia (640)</option>
+          <option value="80" selected="">Austria (330)</option>
+          <option value="16" selected="">Azerbaijan (16)</option>
+          <option value="17" selected="">Bahamas (7)</option>
+          <option value="18" selected="">Bahrain (43)</option>
+          <option value="19" selected="">Bangladesh (141)</option>
+          <option value="20" selected="">Barbados (4)</option>
+          <option value="221" selected="">Belarus (22)</option>
+          <option value="21" selected="">Belgium (159)</option>
+          <option value="22" selected="">Belize (1)</option>
+          <option value="23" selected="">Benin (6)</option>
+          <option value="24" selected="">Bermuda (3)</option>
+          <option value="26" selected="">Bolivia (123)</option>
+          <option value="27" selected="">Bosnia and Herzegovina (149)</option>
+          <option value="28" selected="">Botswana (15)</option>
+          <option value="29" selected="">Brazil (279)</option>
+          <option value="32" selected="">Brunei (9)</option>
+          <option value="33" selected="">Bulgaria (119)</option>
+          <option value="34" selected="">Burkina Faso (8)</option>
+          <option value="35" selected="">Burundi (4)</option>
+          <option value="87" selected="">Cambodia (10)</option>
+          <option value="88" selected="">Cameroon (18)</option>
+          <option value="89" selected="">Canada (428)</option>
+          <option value="90" selected="">Cape Verde (3)</option>
+          <option value="93" selected="">Central African Republic (5)</option>
+          <option value="207" selected="">Chad (9)</option>
+          <option value="37" selected="">Chile (187)</option>
+          <option value="94" selected="">China (232)</option>
+          <option value="85" selected="">Christmas Island (2)</option>
+          <option value="97" selected="">Colombia (70)</option>
+          <option value="100" selected="">Congo, Democratic Republic of the (12)</option>
+          <option value="38" selected="">Cook Islands (1)</option>
+          <option value="39" selected="">Costa Rica (75)</option>
+          <option value="150" selected="">Cote d'Ivoire (3)</option>
+          <option value="105" selected="">Croatia (158)</option>
+          <option value="106" selected="">Cuba (10)</option>
+          <option value="108" selected="">Cyprus (68)</option>
+          <option value="208" selected="">Czech Republic (47)</option>
+          <option value="201" selected="">Denmark (175)</option>
+          <option value="40" selected="">Djibouti (3)</option>
+          <option value="41" selected="">Dominica (1)</option>
+          <option value="42" selected="">Dominican Republic (131)</option>
+          <option value="43" selected="">Ecuador (126)</option>
+          <option value="44" selected="">Egypt (146)</option>
+          <option value="45" selected="">El Salvador (26)</option>
+          <option value="46" selected="">Eritrea (3)</option>
+          <option value="228" selected="">Estonia (47)</option>
+          <option value="49" selected="">Ethiopia (3)</option>
+          <option value="53" selected="">Faroe Islands (1)</option>
+          <option value="51" selected="">Fiji (8)</option>
+          <option value="193" selected="">Finland (206)</option>
+          <option value="165" selected="">France (649)</option>
+          <option value="166" selected="">French Guiana (3)</option>
+          <option value="167" selected="">French Polynesia (1)</option>
+          <option value="54" selected="">Gabon (2)</option>
+          <option value="56" selected="">Georgia (133)</option>
+          <option value="177" selected="">Germany (482)</option>
+          <option value="57" selected="">Ghana (65)</option>
+          <option value="58" selected="">Gibraltar (5)</option>
+          <option value="104" selected="">Greece (129)</option>
+          <option value="60" selected="">Greenland (1)</option>
+          <option value="61" selected="">Guadeloupe (1)</option>
+          <option value="62" selected="">Guam (4)</option>
+          <option value="63" selected="">Guatemala (42)</option>
+          <option value="64" selected="">Guinea (3)</option>
+          <option value="66" selected="">Guyana (4)</option>
+          <option value="67" selected="">Haiti (1)</option>
+          <option value="68" selected="">Honduras (124)</option>
+          <option value="69" selected="">Hong Kong (66)</option>
+          <option value="216" selected="">Hungary (77)</option>
+          <option value="76" selected="">Iceland (25)</option>
+          <option value="72" selected="">India (636)</option>
+          <option value="71" selected="">Indonesia (268)</option>
+          <option value="74" selected="">Iran (24)</option>
+          <option value="73" selected="">Iraq (109)</option>
+          <option value="75" selected="">Ireland (154)</option>
+          <option value="77" selected="">Israel (53)</option>
+          <option value="78" selected="">Italy (428)</option>
+          <option value="81" selected="">Jamaica (5)</option>
+          <option value="82" selected="">Japan (95)</option>
+          <option value="84" selected="">Jordan (113)</option>
+          <option value="91" selected="">Kazakhstan (10)</option>
+          <option value="92" selected="">Kenya (96)</option>
+          <option value="107" selected="">Kuwait (47)</option>
+          <option value="110" selected="">Latvia (11)</option>
+          <option value="112" selected="">Lebanon (30)</option>
+          <option value="113" selected="">Liberia (4)</option>
+          <option value="114" selected="">Libya (6)</option>
+          <option value="115" selected="">Liechtenstein (2)</option>
+          <option value="116" selected="">Lithuania (9)</option>
+          <option value="117" selected="">Luxembourg (40)</option>
+          <option value="119" selected="">Macau (2)</option>
+          <option value="121" selected="">Macedonia (30)</option>
+          <option value="120" selected="">Madagascar (1)</option>
+          <option value="124" selected="">Malaysia (369)</option>
+          <option value="123" selected="">Maldives (1)</option>
+          <option value="125" selected="">Mali (5)</option>
+          <option value="126" selected="">Malta (12)</option>
+          <option value="129" selected="">Martinique (1)</option>
+          <option value="131" selected="">Mauritius (1)</option>
+          <option value="133" selected="">Mexico (351)</option>
+          <option value="135" selected="">Moldova (3)</option>
+          <option value="136" selected="">Monaco (5)</option>
+          <option value="137" selected="">Mongolia (2)</option>
+          <option value="127" selected="">Morocco (15)</option>
+          <option value="139" selected="">Mozambique (6)</option>
+          <option value="141" selected="">Namibia (4)</option>
+          <option value="143" selected="">Nepal (2)</option>
+          <option value="2" selected="">Netherlands (334)</option>
+          <option value="3" selected="">Netherlands Antilles (7)</option>
+          <option value="218" selected="">New Caledonia (3)</option>
+          <option value="219" selected="">New Zealand (140)</option>
+          <option value="144" selected="">Nicaragua (42)</option>
+          <option value="145" selected="">Niger (4)</option>
+          <option value="146" selected="">Nigeria (67)</option>
+          <option value="148" selected="">Norfolk Island (3)</option>
+          <option value="149" selected="">Norway (288)</option>
+          <option value="151" selected="">Oman (41)</option>
+          <option value="152" selected="">Pakistan (17)</option>
+          <option value="153" selected="">Palau (2)</option>
+          <option value="154" selected="">Panama (98)</option>
+          <option value="155" selected="">Papua New Guinea (1)</option>
+          <option value="156" selected="">Paraguay (34)</option>
+          <option value="157" selected="">Peru (61)</option>
+          <option value="52" selected="">Philippines (70)</option>
+          <option value="162" selected="">Poland (183)</option>
+          <option value="160" selected="">Portugal (219)</option>
+          <option value="161" selected="">Puerto Rico (21)</option>
+          <option value="164" selected="">Qatar (49)</option>
+          <option value="168" selected="">Reunion (3)</option>
+          <option value="169" selected="">Romania (38)</option>
+          <option value="226" selected="">Russia (106)</option>
+          <option value="181" selected="">San Marino (1)</option>
+          <option value="182" selected="">Sao Tome and Principe (5)</option>
+          <option value="183" selected="">Saudi Arabia (45)</option>
+          <option value="184" selected="">Senegal (6)</option>
+          <option value="187" selected="">Singapore (133)</option>
+          <option value="188" selected="">Slovakia (39)</option>
+          <option value="189" selected="">Slovenia (34)</option>
+          <option value="190" selected="">Somalia (5)</option>
+          <option value="48" selected="">South Africa (146)</option>
+          <option value="103" selected="">South Korea (1)</option>
+          <option value="47" selected="">Spain (407)</option>
+          <option value="191" selected="">Sri Lanka (20)</option>
+          <option value="192" selected="">Sudan (12)</option>
+          <option value="171" selected="">Sweden (185)</option>
+          <option value="196" selected="">Switzerland (286)</option>
+          <option value="197" selected="">Syria (7)</option>
+          <option value="199" selected="">Taiwan (49)</option>
+          <option value="200" selected="">Tanzania (1)</option>
+          <option value="202" selected="">Thailand (137)</option>
+          <option value="209" selected="">Tunisia (11)</option>
+          <option value="210" selected="">Turkey (125)</option>
+          <option value="214" selected="">Uganda (1)</option>
+          <option value="215" selected="">Ukraine (25)</option>
+          <option value="11" selected="">United Arab Emirates (50)</option>
+          <option value="30" selected="">United Kingdom (225)</option>
+          <option value="229" selected="">United States (586)</option>
+          <option value="217" selected="">Uruguay (18)</option>
+          <option value="225" selected="">Venezuela (22)</option>
+          <option value="227" selected="">Vietnam (101)</option>
+          <option value="118" selected="">Western Sahara (2)</option>
+          <option value="83" selected="">Yemen (17)</option>
+          <option value="243" selected="">Zaire (1)</option>
+          <option value="179" selected="">Zambia (5)</option>
+          <option value="231" selected="">Zimbabwe (7)</option>
+        </select>

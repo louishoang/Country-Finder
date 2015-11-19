@@ -1,0 +1,86 @@
+unless Country.find_by_name("Albania"); Country.create!(:name => "Albania", :iso_2_country_code => "AL", :iso_3_country_code => "ALB"); end
+unless Country.find_by_name("Algeria"); Country.create!(:name => "Algeria", :iso_2_country_code => "DZ", :iso_3_country_code => "DZA"); end
+unless Country.find_by_name("Argentina"); Country.create!(:name => "Argentina", :iso_2_country_code => "AR", :iso_3_country_code => "ARG"); end
+unless Country.find_by_name("Australia"); Country.create!(:name => "Australia", :iso_2_country_code => "AU", :iso_3_country_code => "AUS"); end
+unless Country.find_by_name("Austria"); Country.create!(:name => "Austria", :iso_2_country_code => "AT", :iso_3_country_code => "AUT"); end
+unless Country.find_by_name("Bahrain"); Country.create!(:name => "Bahrain", :iso_2_country_code => "BH", :iso_3_country_code => "BHR"); end
+unless Country.find_by_name("Bangladesh"); Country.create!(:name => "Bangladesh", :iso_2_country_code => "BD", :iso_3_country_code => "BGD"); end
+unless Country.find_by_name("Belarus"); Country.create!(:name => "Belarus", :iso_2_country_code => "BY", :iso_3_country_code => "BLR"); end
+unless Country.find_by_name("Belgium"); Country.create!(:name => "Belgium", :iso_2_country_code => "BE", :iso_3_country_code => "BEL"); end
+unless Country.find_by_name("Bolivia"); Country.create!(:name => "Bolivia", :iso_2_country_code => "BO", :iso_3_country_code => "BOL"); end
+unless Country.find_by_name("Brazil"); Country.create!(:name => "Brazil", :iso_2_country_code => "BR", :iso_3_country_code => "BRA"); end
+unless Country.find_by_name("Bulgaria"); Country.create!(:name => "Bulgaria", :iso_2_country_code => "BG", :iso_3_country_code => "BGR"); end
+unless Country.find_by_name("Canada"); Country.create!(:name => "Canada", :iso_2_country_code => "CA", :iso_3_country_code => "CAN"); end
+unless Country.find_by_name("Chile"); Country.create!(:name => "Chile", :iso_2_country_code => "CL", :iso_3_country_code => "CHL"); end
+unless Country.find_by_name("China"); Country.create!(:name => "China", :iso_2_country_code => "CN", :iso_3_country_code => "CHN"); end
+unless Country.find_by_name("Colombia"); Country.create!(:name => "Colombia", :iso_2_country_code => "CO", :iso_3_country_code => "COL"); end
+unless Country.find_by_name("Costa Rica"); Country.create!(:name => "Costa Rica", :iso_2_country_code => "CR", :iso_3_country_code => "CRI"); end
+unless Country.find_by_name("Croatia"); Country.create!(:name => "Croatia", :iso_2_country_code => "HR", :iso_3_country_code => "HRV"); end
+unless Country.find_by_name("Cyprus"); Country.create!(:name => "Cyprus", :iso_2_country_code => "CY", :iso_3_country_code => "CYP"); end
+unless Country.find_by_name("Czech Republic"); Country.create!(:name => "Czech Republic", :iso_2_country_code => "CZ", :iso_3_country_code => "CZE"); end
+unless Country.find_by_name("Denmark"); Country.create!(:name => "Denmark", :iso_2_country_code => "DK", :iso_3_country_code => "DNK"); end
+unless Country.find_by_name("Dominican Republic"); Country.create!(:name => "Dominican Republic", :iso_2_country_code => "DO", :iso_3_country_code => "DOM"); end
+unless Country.find_by_name("Ecuador"); Country.create!(:name => "Ecuador", :iso_2_country_code => "EC", :iso_3_country_code => "ECU"); end
+unless Country.find_by_name("Egypt"); Country.create!(:name => "Egypt", :iso_2_country_code => "EG", :iso_3_country_code => "EGY"); end
+unless Country.find_by_name("El Salvador"); Country.create!(:name => "El Salvador", :iso_2_country_code => "SV", :iso_3_country_code => "SLV"); end
+unless Country.find_by_name("Estonia"); Country.create!(:name => "Estonia", :iso_2_country_code => "EE", :iso_3_country_code => "EST"); end
+unless Country.find_by_name("Finland"); Country.create!(:name => "Finland", :iso_2_country_code => "FI", :iso_3_country_code => "FIN"); end
+unless Country.find_by_name("France"); Country.create!(:name => "France", :iso_2_country_code => "FR", :iso_3_country_code => "FRA"); end
+unless Country.find_by_name("Georgia"); Country.create!(:name => "Georgia", :iso_2_country_code => "GE", :iso_3_country_code => "GEO"); end
+unless Country.find_by_name("Germany"); Country.create!(:name => "Germany", :iso_2_country_code => "DE", :iso_3_country_code => "DEU"); end
+unless Country.find_by_name("Ghana"); Country.create!(:name => "Ghana", :iso_2_country_code => "GH", :iso_3_country_code => "GHA"); end
+unless Country.find_by_name("Greece"); Country.create!(:name => "Greece", :iso_2_country_code => "GR", :iso_3_country_code => "GRC"); end
+unless Country.find_by_name("Guatemala"); Country.create!(:name => "Guatemala", :iso_2_country_code => "GT", :iso_3_country_code => "GTM"); end
+unless Country.find_by_name("Honduras"); Country.create!(:name => "Honduras", :iso_2_country_code => "HN", :iso_3_country_code => "HND"); end
+unless Country.find_by_name("Hong Kong"); Country.create!(:name => "Hong Kong", :iso_2_country_code => "HK", :iso_3_country_code => "HKG"); end
+unless Country.find_by_name("Hungary"); Country.create!(:name => "Hungary", :iso_2_country_code => "HU", :iso_3_country_code => "HUN"); end
+unless Country.find_by_name("Iceland"); Country.create!(:name => "Iceland", :iso_2_country_code => "IS", :iso_3_country_code => "ISL"); end
+unless Country.find_by_name("India"); Country.create!(:name => "India", :iso_2_country_code => "IO", :iso_3_country_code => "IOT"); end
+unless Country.find_by_name("Indonesia"); Country.create!(:name => "Indonesia", :iso_2_country_code => "ID", :iso_3_country_code => "IDN"); end
+unless Country.find_by_name("Iran"); Country.create!(:name => "Iran", :iso_2_country_code => "IR", :iso_3_country_code => "IRN"); end
+unless Country.find_by_name("Iraq"); Country.create!(:name => "Iraq", :iso_2_country_code => "IQ", :iso_3_country_code => "IRQ"); end
+unless Country.find_by_name("Ireland"); Country.create!(:name => "Ireland", :iso_2_country_code => "IE", :iso_3_country_code => "IRL"); end
+unless Country.find_by_name("Israel"); Country.create!(:name => "Israel", :iso_2_country_code => "IL", :iso_3_country_code => "ISR"); end
+unless Country.find_by_name("Italy"); Country.create!(:name => "Italy", :iso_2_country_code => "IT", :iso_3_country_code => "ITA"); end
+unless Country.find_by_name("Japan"); Country.create!(:name => "Japan", :iso_2_country_code => "JP", :iso_3_country_code => "JPN"); end
+unless Country.find_by_name("Jordan"); Country.create!(:name => "Jordan", :iso_2_country_code => "JO", :iso_3_country_code => "JOR"); end
+unless Country.find_by_name("Kenya"); Country.create!(:name => "Kenya", :iso_2_country_code => "KE", :iso_3_country_code => "KEN"); end
+unless Country.find_by_name("Kuwait"); Country.create!(:name => "Kuwait", :iso_2_country_code => "KW", :iso_3_country_code => "KWT"); end
+unless Country.find_by_name("Lebanon"); Country.create!(:name => "Lebanon", :iso_2_country_code => "LB", :iso_3_country_code => "LBN"); end
+unless Country.find_by_name("Luxembourg"); Country.create!(:name => "Luxembourg", :iso_2_country_code => "LU", :iso_3_country_code => "LUX"); end
+unless Country.find_by_name("Macedonia"); Country.create!(:name => "Macedonia", :iso_2_country_code => "MK", :iso_3_country_code => "MKD"); end
+unless Country.find_by_name("Malaysia"); Country.create!(:name => "Malaysia", :iso_2_country_code => "MY", :iso_3_country_code => "MYS"); end
+unless Country.find_by_name("Mexico"); Country.create!(:name => "Mexico", :iso_2_country_code => "MX", :iso_3_country_code => "MEX"); end
+unless Country.find_by_name("Netherlands"); Country.create!(:name => "Netherlands", :iso_2_country_code => "NL", :iso_3_country_code => "NLD"); end
+unless Country.find_by_name("New Zealand"); Country.create!(:name => "New Zealand", :iso_2_country_code => "NZ", :iso_3_country_code => "NZL"); end
+unless Country.find_by_name("Nicaragua"); Country.create!(:name => "Nicaragua", :iso_2_country_code => "NI", :iso_3_country_code => "NIC"); end
+unless Country.find_by_name("Nigeria"); Country.create!(:name => "Nigeria", :iso_2_country_code => "NG", :iso_3_country_code => "NGA"); end
+unless Country.find_by_name("Norway"); Country.create!(:name => "Norway", :iso_2_country_code => "NO", :iso_3_country_code => "NOR"); end
+unless Country.find_by_name("Oman"); Country.create!(:name => "Oman", :iso_2_country_code => "OM", :iso_3_country_code => "OMN"); end
+unless Country.find_by_name("Panama"); Country.create!(:name => "Panama", :iso_2_country_code => "PA", :iso_3_country_code => "PAN"); end
+unless Country.find_by_name("Paraguay"); Country.create!(:name => "Paraguay", :iso_2_country_code => "PY", :iso_3_country_code => "PRY"); end
+unless Country.find_by_name("Peru"); Country.create!(:name => "Peru", :iso_2_country_code => "PE", :iso_3_country_code => "PER"); end
+unless Country.find_by_name("Philippines"); Country.create!(:name => "Philippines", :iso_2_country_code => "PH", :iso_3_country_code => "PHL"); end
+unless Country.find_by_name("Poland"); Country.create!(:name => "Poland", :iso_2_country_code => "PL", :iso_3_country_code => "POL"); end
+unless Country.find_by_name("Portugal"); Country.create!(:name => "Portugal", :iso_2_country_code => "PT", :iso_3_country_code => "PRT"); end
+unless Country.find_by_name("Puerto Rico"); Country.create!(:name => "Puerto Rico", :iso_2_country_code => "PR", :iso_3_country_code => "PRI"); end
+unless Country.find_by_name("Qatar"); Country.create!(:name => "Qatar", :iso_2_country_code => "QA", :iso_3_country_code => "QAT"); end
+unless Country.find_by_name("Romania"); Country.create!(:name => "Romania", :iso_2_country_code => "RO", :iso_3_country_code => "ROU"); end
+unless Country.find_by_name("Russia"); Country.create!(:name => "Russia", :iso_2_country_code => "RU", :iso_3_country_code => "RUS"); end
+unless Country.find_by_name("Saudi Arabia"); Country.create!(:name => "Saudi Arabia", :iso_2_country_code => "SA", :iso_3_country_code => "SAU"); end
+unless Country.find_by_name("Singapore"); Country.create!(:name => "Singapore", :iso_2_country_code => "SG", :iso_3_country_code => "SGP"); end
+unless Country.find_by_name("Slovakia"); Country.create!(:name => "Slovakia", :iso_2_country_code => "SK", :iso_3_country_code => "SVK"); end
+unless Country.find_by_name("Slovenia"); Country.create!(:name => "Slovenia", :iso_2_country_code => "SI", :iso_3_country_code => "SVN"); end
+unless Country.find_by_name("South Africa"); Country.create!(:name => "South Africa", :iso_2_country_code => "ZA", :iso_3_country_code => "ZAF"); end
+unless Country.find_by_name("Spain"); Country.create!(:name => "Spain", :iso_2_country_code => "ES", :iso_3_country_code => "ESP"); end
+unless Country.find_by_name("Sri Lanka"); Country.create!(:name => "Sri Lanka", :iso_2_country_code => "LK", :iso_3_country_code => "LKA"); end
+unless Country.find_by_name("Sweden"); Country.create!(:name => "Sweden", :iso_2_country_code => "SE", :iso_3_country_code => "SWE"); end
+unless Country.find_by_name("Switzerland"); Country.create!(:name => "Switzerland", :iso_2_country_code => "CH", :iso_3_country_code => "CHE"); end
+unless Country.find_by_name("Taiwan"); Country.create!(:name => "Taiwan", :iso_2_country_code => "TW", :iso_3_country_code => "TWN"); end
+unless Country.find_by_name("Thailand"); Country.create!(:name => "Thailand", :iso_2_country_code => "TH", :iso_3_country_code => "THA"); end
+unless Country.find_by_name("Turkey"); Country.create!(:name => "Turkey", :iso_2_country_code => "TR", :iso_3_country_code => "TUR"); end
+unless Country.find_by_name("Ukraine"); Country.create!(:name => "Ukraine", :iso_2_country_code => "UA", :iso_3_country_code => "UKR"); end
+unless Country.find_by_name("United Kingdom"); Country.create!(:name => "United Kingdom", :iso_2_country_code => "GB", :iso_3_country_code => "GBR"); end
+unless Country.find_by_name("United States"); Country.create!(:name => "United States", :iso_2_country_code => "UM", :iso_3_country_code => "UMI"); end
+unless Country.find_by_name("Venezuela"); Country.create!(:name => "Venezuela", :iso_2_country_code => "VE", :iso_3_country_code => "VEN"); end
+unless Country.find_by_name("Vietnam"); Country.create!(:name => "Vietnam", :iso_2_country_code => "VN", :iso_3_country_code => "VNM"); end
