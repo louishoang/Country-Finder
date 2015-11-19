@@ -70,6 +70,6 @@ class CountryFinder
   end
 end
 
-finder = CountryFinder.new(file_path: "/Users/LouisHoang/Desktop/country_list_html.txt")
+finder = CountryFinder.new(file_path: "country_list_html.txt")
 finder.run
 
